@@ -15,6 +15,9 @@ var mergeConflictsDemonstration = 2;
 //Comments
 //Comments
 //Comments
+var mergeConflict = 7;
+
+
 app.MapGet("/", () => "Hello World!");
 
 app.Run();
