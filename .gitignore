@@ -316,6 +316,8 @@ _Pvt_Extensions
 # Paket dependency manager
 .paket/paket.exe
 paket-files/
+.paket/Paket.Restore.targets
+paket.lock
 
 # FAKE - F# Make
 .fake/
